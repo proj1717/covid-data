@@ -7,6 +7,6 @@
 # Project Description
 This project's the first project from Data 
 Science/ML IBM Whatsapp Group. This group initiated
-by [Jhon Doe](google.com) Coursera Data Science 
+by [Jhon Doe](google.com) on Coursera Data Science 
 Community.  
 
